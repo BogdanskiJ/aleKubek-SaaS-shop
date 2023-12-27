@@ -1,0 +1,22 @@
+{
+	"name": "sharp",
+	"version": "1.0.0",
+	"description": "tinyImages",
+	"main": "index.js",
+	"scripts": {
+		"test": "npm sharp"
+	},
+	"repository": {
+		"type": "git",
+		"url": "none"
+	},
+	"keywords": [
+		"none"
+	],
+	"author": "none",
+	"license": "ISC",
+	"dependencies": {
+		"chokidar": "^3.5.3",
+		"sharp": "^0.33.1"
+	}
+}
